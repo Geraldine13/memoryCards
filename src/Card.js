@@ -6,7 +6,7 @@ export default class Card extends Component {
   render() {
     
     return (
-      <div className={this.props.found ? "hidden" : "card"} onClick={this.props.selectCard}>
+      <div className={this.props.found ? "card hidden" : "card"} onClick={this.props.selectCard}>
 
         <FlipCard 
           flipped={this.props.comparativeCard || this.props.found}

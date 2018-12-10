@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Board from './Board';
-// import logo from './logo.svg';
 import './App.css';
 import showCards from './utils/showCards';
 
 const getInitialState = () => {
   const packOfCards = showCards();
-  // console.log(packOfCards);
   
   return {
     packOfCards,
@@ -90,9 +88,16 @@ class App extends Component {
   }
   
   gameOver(packOfCards) {
-    if (packOfCards.filter((card) => !card.found).length === 0) {
-      alert(`Juego Terminado! \nGanaste en ${this.state.numberAttempt} intentos!`)
-    }
+
+    setTimeout(() => {
+      if (packOfCards.filter((card) => !card.found).length === 0) {
+        alert(`Juego Terminado! \nGanaste en ${this.state.numberAttempt} intentos!`)
+        this.setState(
+          getInitialState()
+        ) 
+      }
+    }, 1000)
+    
   }
 
   restartGame() {
