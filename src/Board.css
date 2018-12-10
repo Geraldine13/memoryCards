@@ -1,0 +1,11 @@
+.board {
+  background: rgb(184, 203, 214);
+  margin: 50px auto;
+  border-radius: 10px;
+  color: brown;
+  display: flex;
+  flex-wrap: wrap;
+  height: 630px;
+  width: 900px;
+  justify-content: space-around;
+}

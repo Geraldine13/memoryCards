@@ -1,0 +1,31 @@
+{
+  "name": "juego-de-memoria",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "last": "^1.1.0",
+    "lodash.shuffle": "^4.2.0",
+    "react": "^15.4.2",
+    "react-card-flip": "^0.3.0",
+    "react-dom": "^15.4.2",
+    "react-flipcard": "^0.2.1",
+    "react-flipcard-2": "^0.3.2",
+    "react-scripts": "2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
