@@ -57,10 +57,10 @@
   "static/media/trebol-siete.png": "/memoryCards/static/media/trebol-siete.d6f593ef.png",
   "static/media/trebol-tres.png": "/memoryCards/static/media/trebol-tres.f97487ce.png",
   "static/media/Card.css": "/memoryCards/static/media/backBlue.f7898002.png",
-  "static/media/font-awesome.css": "/memoryCards/static/media/fontawesome-webfont.b06871f2.ttf",
+  "static/media/font-awesome.css": "/memoryCards/static/media/fontawesome-webfont.912ec66d.svg",
   "static/css/main.c686b24e.chunk.css.map": "/memoryCards/static/css/main.c686b24e.chunk.css.map",
   "static/css/1.613189e5.chunk.css.map": "/memoryCards/static/css/1.613189e5.chunk.css.map",
   "index.html": "/memoryCards/index.html",
-  "precache-manifest.0b16fe735a12d6b134127fb9d406dd8f.js": "/memoryCards/precache-manifest.0b16fe735a12d6b134127fb9d406dd8f.js",
+  "precache-manifest.7aa1472ed9ddf6fe2390098118a81036.js": "/memoryCards/precache-manifest.7aa1472ed9ddf6fe2390098118a81036.js",
   "service-worker.js": "/memoryCards/service-worker.js"
 }
