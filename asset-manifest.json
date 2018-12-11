@@ -1,7 +1,7 @@
 {
-  "main.css": "/memoryCards/static/css/main.0156f659.chunk.css",
-  "main.js": "/memoryCards/static/js/main.26e993da.chunk.js",
-  "main.js.map": "/memoryCards/static/js/main.26e993da.chunk.js.map",
+  "main.css": "/memoryCards/static/css/main.c686b24e.chunk.css",
+  "main.js": "/memoryCards/static/js/main.4b4f7f1b.chunk.js",
+  "main.js.map": "/memoryCards/static/js/main.4b4f7f1b.chunk.js.map",
   "static/css/1.613189e5.chunk.css": "/memoryCards/static/css/1.613189e5.chunk.css",
   "static/js/1.3d33d1e2.chunk.js": "/memoryCards/static/js/1.3d33d1e2.chunk.js",
   "static/js/1.3d33d1e2.chunk.js.map": "/memoryCards/static/js/1.3d33d1e2.chunk.js.map",
@@ -57,10 +57,10 @@
   "static/media/trebol-siete.png": "/memoryCards/static/media/trebol-siete.d6f593ef.png",
   "static/media/trebol-tres.png": "/memoryCards/static/media/trebol-tres.f97487ce.png",
   "static/media/Card.css": "/memoryCards/static/media/backBlue.f7898002.png",
-  "static/media/font-awesome.css": "/memoryCards/static/media/fontawesome-webfont.912ec66d.svg",
+  "static/media/font-awesome.css": "/memoryCards/static/media/fontawesome-webfont.b06871f2.ttf",
+  "static/css/main.c686b24e.chunk.css.map": "/memoryCards/static/css/main.c686b24e.chunk.css.map",
   "static/css/1.613189e5.chunk.css.map": "/memoryCards/static/css/1.613189e5.chunk.css.map",
-  "static/css/main.0156f659.chunk.css.map": "/memoryCards/static/css/main.0156f659.chunk.css.map",
   "index.html": "/memoryCards/index.html",
-  "precache-manifest.43a5014fead29de6c39b0e2110bae321.js": "/memoryCards/precache-manifest.43a5014fead29de6c39b0e2110bae321.js",
+  "precache-manifest.0b16fe735a12d6b134127fb9d406dd8f.js": "/memoryCards/precache-manifest.0b16fe735a12d6b134127fb9d406dd8f.js",
   "service-worker.js": "/memoryCards/service-worker.js"
 }

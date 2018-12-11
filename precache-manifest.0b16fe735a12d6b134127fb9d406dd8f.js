@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/memoryCards/static/media/espada-cuatro.82d07e2d.png"
   },
   {
-    "revision": "26e993daf91a24c90235",
-    "url": "/memoryCards/static/css/main.0156f659.chunk.css"
+    "revision": "4b4f7f1b10f7a85a7370",
+    "url": "/memoryCards/static/css/main.c686b24e.chunk.css"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/memoryCards/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/memoryCards/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "3d33d1e2530cd7d1b57e",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "url": "/memoryCards/static/media/espada-cinco.cf5b7a35.png"
   },
   {
-    "revision": "26e993daf91a24c90235",
-    "url": "/memoryCards/static/js/main.26e993da.chunk.js"
+    "revision": "4b4f7f1b10f7a85a7370",
+    "url": "/memoryCards/static/js/main.4b4f7f1b.chunk.js"
   },
   {
     "revision": "4adbe15ecaaf1effe1a1a0cc1a5b1618",
@@ -220,27 +220,27 @@ self.__precacheManifest = [
     "url": "/memoryCards/static/media/backBlue.f7898002.png"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/memoryCards/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/memoryCards/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/memoryCards/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/memoryCards/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/memoryCards/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/memoryCards/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "3d33d1e2530cd7d1b57e",
     "url": "/memoryCards/static/css/1.613189e5.chunk.css"
   },
   {
-    "revision": "0674d0b46fc9c95fe5f81cfd2dc91ce6",
+    "revision": "d6278008cfbef22d36176e6317d328ce",
     "url": "/memoryCards/index.html"
   }
 ];
